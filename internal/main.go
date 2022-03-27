@@ -1,6 +1,6 @@
 package internal
 
-import wa "app/internal/infrastructure/warehouse-api"
+import wa "github.com/freddieline/warehouse-stocks-checker/internal/infrastructure/warehouse-api"
 
 type Main struct{
 	warehouseApi wa
